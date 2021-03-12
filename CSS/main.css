@@ -1,0 +1,133 @@
+:root{
+    --coloresultimos: #A9CCE3 ;
+    --colores-seis-siete: #CACFD2 ;
+    --color-: #808B96;
+}
+
+body{
+    background-color: #707B7C;
+    text-align: center;
+    padding: 55px;
+    font-size: 20px;
+    font-family: 'Architects Daughter', cursive; 
+    border-style: double;
+    border-color: #A9CCE3;
+    border-width: 10px;
+}
+
+p{
+    color: #154360 ;
+}
+
+.blue-color{
+    color: #008080;
+}
+
+.primerdiv{
+    background-color:  #808B96;
+    text-align: center
+    border-color: #21618C;
+    border-style: groove;
+    border-width:  10px; 
+    margin-top: 15px;
+     
+}
+
+.list{
+    text-align: left;
+    display: inline-block;
+}
+
+.imagen{
+    width: 300px;    
+}
+
+.margenimagen{
+    border-color: #212F3D;
+    border-width: 8px;
+    border-style: double;
+}
+
+h1{
+    color: #424949;
+    font-size: 50px;
+}
+
+h2{
+    color: #154360;
+    font-size: 35px;
+    font-family: 'Redressed', cursive;
+}
+
+.segdivi{
+    background-color: var(--color-, silver);
+    border-color: #21618C;
+    border-style: groove;
+    border-width:  10px; 
+    margin-top: 15px;
+}
+
+.terdiv{
+    background-color: var(--color-, silver);
+    border-color: #21618C;
+    border-style: groove;
+    border-width:  10px; 
+    margin-top: 15px;
+}
+
+.cuardiv{
+    background-color: var(--color-, silver);
+    border-color: #21618C;
+    border-style: groove;
+    border-width:  10px; 
+    margin-top: 15px;
+}
+
+.quintdiv{
+    background-color: var(--color-, silver);
+    border-color: #21618C;
+    border-style: groove;
+    border-width:  10px; 
+    margin-top: 15px;
+}
+
+.variablecolor{
+    --colores-seis-y-siete: #EAECEE;
+}
+
+.sextadiv{
+    background-color: var(--colores-seis-siete, silver);
+    border-style: groove;
+    border-width: 10px;
+    border-color: #044875;
+    margin-top: 15px;
+}    
+
+.septimadiv{
+    background-color: var(--colores-seis-siete, silver);
+    border-color: #21618C;
+    border-style: groove;
+    border-width:  10px; 
+    margin-top: 15px;
+}
+
+.octavadiv{
+    background-color: var(--coloresultimos, teal);
+    border-color: #512E5F;
+    border-style: groove;
+    border-width: 10px;
+    border-collapse: separate;
+    margin-top: 15px;
+    
+}
+
+.novenadiv{
+    background-color: var(--coloresultimos, teal);
+    border-color: #512E5F;
+    border-style: groove;
+    border-width: 10px;
+    margin-top: 15px;
+}
+
+
+
